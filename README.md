@@ -4,9 +4,9 @@ Analyzing and visualizing Uber and Lyft dataset from Boston, MA
 
 Uber and Lyft are two popular ride-hailing services that allow users to request rides from drivers through their apps. Uber is available in more countries and cities than Lyft, but Lyft has a larger market share in the United States. Both services have similar features, but there are some key differences, such as their pricing models.
 We have a dataset of ride data from Boston, Massachusetts. We will use this data to analyze the factors that affect dynamic pricing and to compare the pricing models of Uber and Lyft.
-Here are some of the factors that we will consider:
+Here are some of the factors that we will consider: <br>
 
-•	Time of day
+•	Time of day <br>
 •	Day of week
 •	Location
 •	Weather
